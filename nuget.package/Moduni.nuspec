@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Corentin Lemasson</authors>
+    <owners>Corentin Lemasson</owners>
+    <licenseUrl>http://www.gnu.org/licenses/gpl.html</licenseUrl>
+    <projectUrl>https://bitbucket.s4id.net/projects/MODUNI/repos/moduni/</projectUrl>
+    <iconUrl>https://yt3.ggpht.com/-zEXPjVfQo08/AAAAAAAAAAI/AAAAAAAAAAA/xiqG3qu4RoU/s900-c-k-no/photo.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Unity3D Modules Git</tags>
+	<dependencies>
+		<group targetFramework="net35">
+			<dependency id="LibGit2Sharp.NativeBinaries.Unity" version="1.0.129" />
+			<dependency id="LibGit2Sharp.Unity" version="0.22.0" />
+			<dependency id="RestSharp" version="105.2.3" />
+			<dependency id="System.Threading.Tasks.Unofficial" version="3.1" />
+		</group>
+	</dependencies>
+  </metadata>
+</package>

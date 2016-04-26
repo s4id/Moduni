@@ -1,0 +1,11 @@
+{ 
+
+	"dependencies": 
+	{ 
+		"LibGit2Sharp.NativeBinaries.Unity" : "1.0.129",
+		"LibGit2Sharp.Unity" : "0.22.0",
+		"System.Threading.Tasks.Unofficial" : "3.1"
+	}, 
+	"frameworks" : { "net35" : {} }
+
+}
